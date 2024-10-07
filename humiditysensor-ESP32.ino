@@ -22,9 +22,9 @@ unsigned long curr;
 const unsigned long interval = 60000;
 const unsigned long ave_interval = 600000;
 
-const char* ssid = "TIPQC-AUN"; // Wifi SSID
-const char* password = "1962@tip"; // Wifi Password
-String Web_App_URL = "https://script.google.com/macros/s/AKfycbyPa_lK3UVCOLnACHrQyveY6JjgmSkJORLfCrnxOrysfnade2MMuGy3lENh6kzrNqUL/exec"; //Web app in Google Scripts
+const char* ssid = "WIFINAMEHERE"; // Wifi SSID
+const char* password = "WIFIPASSWORDHERE"; // Wifi Password
+String Web_App_URL = "GOOGLEAPPSCRIPTLINKHERE"; //Web app in Google Scripts
 
 
 
